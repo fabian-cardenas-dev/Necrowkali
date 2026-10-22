@@ -35,3 +35,11 @@ Desarrollador con más de 2 años de experiencia profesional en la **Universidad
 
 - **[Sistema de Gestión Escolar / SAII](https://github.com/fabian-cardenas-dev/proyecto-saii)** — Optimización de módulos para la digitalización de procesos académicos y re-inscripciones masivas.
 - **[Herramientas de Administración Moodle/Backend](https://github.com/fabian-cardenas-dev/moodle-tools)** — Scripts y utilidades para la carga masiva de usuarios y automatización en plataformas LMS.
+
+---
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabian-cardenas-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian-cardenas-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
+</p>
