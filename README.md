@@ -28,3 +28,10 @@ Desarrollador con más de 2 años de experiencia profesional en la **Universidad
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 Proyectos Destacados
+
+- **[Sistema de Gestión Escolar / SAII](https://github.com/fabian-cardenas-dev/proyecto-saii)** — Optimización de módulos para la digitalización de procesos académicos y re-inscripciones masivas.
+- **[Herramientas de Administración Moodle/Backend](https://github.com/fabian-cardenas-dev/moodle-tools)** — Scripts y utilidades para la carga masiva de usuarios y automatización en plataformas LMS.
